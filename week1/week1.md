@@ -11,15 +11,15 @@ Terminal adalah program yang digunakan untuk menjalankan shell itu sendiri, pada
 
 Perintah-perintah Command Line
 Terdapat beberapa perintah yang dapat digunakan sebagai berikut:
-- Ls : list files
-- Ls –la : list all file baik yang terhidden
-- Pwd : mengetahui posisi saat ini
-- Cd : berpindah folder atau directory
-- Mkdir : membuat folder atau directory
-- Rm dan rm -r : menghapus file dan menghapus folder
-- Touch : membuat file baru
-- Cp or cp -r: salin file atau salin folder
-- Mv : menghapus file
+- Ls            : list files
+- Ls '–la'      : list all file baik yang terhidden
+- Pwd           : mengetahui posisi saat ini
+- Cd            : berpindah folder atau directory
+- Mkdir         : membuat folder atau directory
+- Rm dan rm -r  : menghapus file dan menghapus folder
+- Touch         : membuat file baru
+- Cp or cp -r   : salin file atau salin folder
+- Mv            : menghapus file
 
 Contoh:
 	![alt text](UNIX.png)
@@ -125,15 +125,15 @@ CSS atau cascade style sheet merupakan bahasa computer yang digunakan untuk memp
 
 ### **Adapun tiga cara menulis CSS di HTML:**
 
-Internal CSS –> ditulis di dalam tag `<style>`
+Internal CSS –> ditulis di dalam tag `<style>` Contoh:
 
-Contoh:![alt text](CSS1.png)
+![alt text](CSS1.png)
  
-Inline CSS –> ditulis di atribut elemen HTML
-Contoh: ![alt text](CSS2.png)
+Inline CSS –> ditulis di atribut elemen HTML Contoh:
+![alt text](CSS2.png)
  
-External CSS –> ditulis di file CSS terpisah dengan HTML
-Contoh:![alt text](CSS3.png)
+External CSS –> ditulis di file CSS terpisah dengan HTML Contoh:
+![alt text](CSS3.png)
 
 ### **Comment**
 Merupakan catatan yg disisipkan untuk memudahkan baca code yang telah dibuat
@@ -142,12 +142,16 @@ Contoh: /* --- */
 
 ### **4 Cara styling css**
 - Tag name : menggunakan element html secara langsung pada css, tag name bersifat global
+
  ![alt text](STYLE1.png)
-- Class : menggunakan atribut class pada element html dan memanggil nama class 
+- Class : menggunakan atribut class pada element html dan memanggil nama class
+
 ![alt text](STYLE2.png)
 -	ID : Bersifat unik dimana hanya ada 1 nama ID pada element html
+
 ![alt text](STYLE3.png)
 - !important : Bersifat prioritas dan utama
+
 ![alt text](STYLE4.png)
 
 ### **Flexbox**
