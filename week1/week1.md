@@ -19,7 +19,7 @@ Terdapat beberapa perintah yang dapat digunakan sebagai berikut:
 - Rm dan rm -r  : menghapus file dan menghapus folder
 - Touch         : membuat file baru
 - Cp or cp -r   : salin file atau salin folder
-- Mv            : menghapus file
+- Mv            : memindahkan file
 
 Contoh:
 	![alt text](UNIX.png)
