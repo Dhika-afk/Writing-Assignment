@@ -130,9 +130,11 @@ Internal CSS –> ditulis di dalam tag `<style>` Contoh:
 ![alt text](CSS1.png)
  
 Inline CSS –> ditulis di atribut elemen HTML Contoh:
+
 ![alt text](CSS2.png)
  
 External CSS –> ditulis di file CSS terpisah dengan HTML Contoh:
+
 ![alt text](CSS3.png)
 
 ### **Comment**
@@ -143,7 +145,7 @@ Contoh: /* --- */
 ### **4 Cara styling css**
 - Tag name : menggunakan element html secara langsung pada css, tag name bersifat global
 
- ![alt text](STYLE1.png)
+![alt text](STYLE1.png)
 - Class : menggunakan atribut class pada element html dan memanggil nama class
 
 ![alt text](STYLE2.png)
