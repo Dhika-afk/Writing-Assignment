@@ -21,11 +21,6 @@ Terdapat beberapa perintah yang dapat digunakan sebagai berikut:
 - Cp or cp -r   : salin file atau salin folder
 - Mv            : memindahkan file
 
-Contoh:
-	![alt text](UNIX.png)
-
- 
-
 
 # **Git & Git Hub**
 Git adalah version control system atau tools yang biasa digunakan oleh para developer untuk dapat memudahkan dalam melakukan kolaborasi project maupun pengembangan software secara bersamaan. Git juga digunakan untuk menyimpan file pemrograman.
@@ -62,12 +57,15 @@ clone sehingga perubahan offline juga tetap tercatat.
 6. Pull request	: Bisa mengusulkan suatu perubahan pada repository ke pemilik/pemimpin project. 
 7. Issue		: Berisi saran, pertanyaan atau permintaan yang berhubungan dengan repository.
 
+Contoh:
+	![alt text](UNIX.png)
 
+ 
 # **HTML**
 Html atau hyper text markup language merupakan kerangka atau struktur yang digunakana untuk membuat  struktur halaman website.
 
 
-# **Struktur HTML**
+### **Struktur HTML**
 ![alt text](STRUK.png)
 
 Tool pendukung
@@ -127,11 +125,11 @@ CSS atau cascade style sheet merupakan bahasa computer yang digunakan untuk memp
 
 Internal CSS –> ditulis di dalam tag `<style>` Contoh:
 
-![alt text](CSS1.png)
+![alt text](CSS2.png)
  
 Inline CSS –> ditulis di atribut elemen HTML Contoh:
 
-![alt text](CSS2.png)
+![alt text](CSS1.png)
  
 External CSS –> ditulis di file CSS terpisah dengan HTML Contoh:
 
