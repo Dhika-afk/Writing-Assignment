@@ -170,12 +170,13 @@ flex-start | flex-end | center | space-between | space-arround | baseline
 Algoritma adalah deskripsi dari tahapan atau langkah-langkah yang digunakan untuk menyelesaikan suatu masalah yang ada.
 
 ### **3 hal syarat algortima**
--	Input dan input di definisikan dengan tepat
+-	Input dan output di definisikan dengan tepat
 -	Setiap step harus jelas dan tidak memingungkan
 -	Tidak mengandung suatu code bahasa pemrograman 
 
 ### **Pseudocode**
 Adalah cara penulisan urutan  logika program secara informal atau dibuat  dengan kaidah tersendiri dengan tujuan untuk mudah di pahami oleh manusia
+```
 Contoh penjumlahan 2 angka
 BEGIN
 NUMBER angka1, angka2
@@ -184,6 +185,7 @@ INPUT angka2
 sum=angka1+angka2
 OUTPUT sum
 END
+```
 
 ### **Jenis-jenis :**
 **Conditional**
