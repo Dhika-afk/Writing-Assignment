@@ -15,10 +15,10 @@ Merupakan merupakan code yang digunakan untuk menampilkan teks atau content ke c
 
 ## **Comment**
 Merupaka sintaks yang digunakan untuk memberikan sebuah keterangan atau informasi mengenai code yang ditulis. Comment tidak akan di baca oleh program karena berfungsi sebagai note atau keterangan yang hanya di baca oleh sesame programmer<br>
-**Single Comment**
+**Single Comment**<br>
 ![alt text](single.png)
  
-**Multi Comment**
+**Multi Comment**<br>
  ![alt text](multi.png)
 
 ## **Type Data** 
@@ -60,7 +60,7 @@ Cons : data tidak dapat diubah<br>
 
 ## **Conditional**
 Conditional dapat dikatakan sebagai percabangan pada js yang menggambarkan suatu kondisi atau biasa disebut dengan conditional statement. Pada conditional statement kondisi yang di cek adalah kondisi true. Jika kondisi true memenuhi maka program dijalankan.<br>
-Contoh:
+Contoh:<br>
 ![alt text](if.png)
  
  **If else statement :** digunakan jika memliki berbagai kondisi
