@@ -240,7 +240,7 @@ Digunakan untuk menghandle operasi asynchronous dengan syntax yang lebih mirip d
 
 ## **Fetch**
 Fetch pada Javascript adalah kegiatan untuk meminta/me-request layanan ke endpoint pada website lain atau website sendiri, untuk mengambil response resource / sumber daya berupa data berformat json yang biasa dilakukan programmer untuk membangun website yang membutuhkan data dari website lain<br>
-  ![alt text](51.png)
+  ![alt text](51.png)<br>
 Contoh:<br>
   ![alt text](52.png)<br>
    ![alt text](53.png)
