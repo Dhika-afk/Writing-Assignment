@@ -6,9 +6,9 @@ Merupakan sebuah tipe data berupa list order yang mampu menyimpan beragam tipe d
  ![alt text](2.png)
 
 Cara membuat dan memanggil Array:<br>
-![alt text](3.png)
-![alt text](4.png)
-![alt text](5.png)
+![alt text](3.png)<br>
+![alt text](4.png)<br>
+![alt text](5.png)<br>
 ![alt text](6.png)
 
 ## **Array Method**
@@ -56,7 +56,7 @@ Contoh:<br>
 ## **Looping Multidimensional Array**
 Multidimensional array juga dapat melakukan perulangan seperti array pada umunya dengan method map dan foreach.<br>
 -	Map()<br>
- ![alt text](16.png)
+ ![alt text](16.png)<br>
  ![alt text](18.png)
 
 -	Foreach()<br>
@@ -115,7 +115,7 @@ Mengubah data pada sebuah object melalui function dengan cara memasukkan object 
 
 ## **Looping array of object**
 Arrayof object merupakan object berbentuk array yaitu dapat menyimpan lebih dari satu data.<br>
- ![alt text](31.png)
+ ![alt text](31.png)<br>
  ![alt text](32.png)
  
 
@@ -157,7 +157,7 @@ test() mengembalikan nilai BOOLEAN (TRUE/FALSE) untuk kecocokan sebuat text yang
  
 -	Match()
 match() mengembalikan nilai array dari karakter yang match.<br>
- ![alt text](37.png)
+ ![alt text](37.png)<br>
  ![alt text](38.png)
  
 
@@ -215,12 +215,12 @@ Tipe Web StorageWeb API menyediakan dua tipe Web Storage untuk kita gunakan, yak
 ## **Tipe web Storage yang umum digunakan oleh front end**
 -	Local storage, 
 Local Storage adalah jenis penyimpanan web yang memungkinkan situs dan aplikasi menyimpan dan mengakses data langsung di browser tanpa tanggalmasa berlaku atau kedaluwarsa.<br>
- ![alt text](45.png)
+ ![alt text](45.png)<br>
  ![alt text](46.png)
 -	session storage.
 
 Session Storage adalah penyimpanan website pada sisi klien yang digunakan untuk menyimpan data selama web-browser atau tab yang memuat halaman suatu website belum ditutup atau keluar (close).<br>
- ![alt text](47.png)
+ ![alt text](47.png)<br>
   ![alt text](48.png)
  
 ## **Tipe web Storage yang umum digunakan oleh back end**
@@ -242,6 +242,6 @@ Digunakan untuk menghandle operasi asynchronous dengan syntax yang lebih mirip d
 Fetch pada Javascript adalah kegiatan untuk meminta/me-request layanan ke endpoint pada website lain atau website sendiri, untuk mengambil response resource / sumber daya berupa data berformat json yang biasa dilakukan programmer untuk membangun website yang membutuhkan data dari website lain<br>
   ![alt text](51.png)
 Contoh:<br>
-  ![alt text](52.png)
+  ![alt text](52.png)<br>
    ![alt text](53.png)
  
