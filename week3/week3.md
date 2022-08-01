@@ -28,18 +28,18 @@ Digunakan menambahkan elemen array di awal array<br>
 Digunakan untuk menghapus elemen array di awal array<br>
 ![alt text](10.png)
  
--	.sort
+-	.sort()
 Digunakan untuk mengurutkan elemen dari array.<br>
 ![alt text](11.png)
  
 
 Looping Array
 -	map()
-map() melakukan perulangan/looping dengan membuat array baru.<br>
+melakukan perulangan/looping dengan membuat array baru.<br>
  ![alt text](12.png)
 
 -	foreach
-forEach() adalah method untuk melakukan looping pada setiap elemen array<br>
+adalah method untuk melakukan looping pada setiap elemen array<br>
  ![alt text](13.png)
 
 
@@ -127,7 +127,7 @@ Merupakan function yang memanggil dirinya sendiri hingga mencapai suatu kondisi 
 ## **Ciri-ciri rekursive**
 -	Memiliki kondisi yang menyatakan kapan fungsi tersebut akan berhenti.
 -	Fungsi rekursif selalu memanggil dirinya sendiri sambil mengurangi atau memecahkan data masukan setiap panggilannya.<br>
-Contoh kasus rekurisive
+Contoh kasus rekurisive<br>
  ![alt text](33.png)
 
 ## **REGEX**
@@ -213,12 +213,11 @@ Web storage adalah salah satu Web API yang dapat menyimpan data secara lokal pad
 Tipe Web StorageWeb API menyediakan dua tipe Web Storage untuk kita gunakan, yakni sessionStorage dan localStorage
 
 ## **Tipe web Storage yang umum digunakan oleh front end**
--	Local storage, 
+-	Local storage. 
 Local Storage adalah jenis penyimpanan web yang memungkinkan situs dan aplikasi menyimpan dan mengakses data langsung di browser tanpa tanggalmasa berlaku atau kedaluwarsa.<br>
  ![alt text](45.png)<br>
  ![alt text](46.png)
 -	session storage.
-
 Session Storage adalah penyimpanan website pada sisi klien yang digunakan untuk menyimpan data selama web-browser atau tab yang memuat halaman suatu website belum ditutup atau keluar (close).<br>
  ![alt text](47.png)<br>
   ![alt text](48.png)
