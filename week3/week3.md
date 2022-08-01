@@ -21,11 +21,11 @@ untuk mengurangi elemen dari array<br>
 ![alt text](8.png)
  
 -	.unshift()
-Digunakan menghapus elemen array di awal array<br>
+Digunakan menambahkan elemen array di awal array<br>
 ![alt text](9.png)
  
 -	.shift()
-Digunakan untuk menambahkan elemen array di awal array<br>
+Digunakan untuk menghapus elemen array di awal array<br>
 ![alt text](10.png)
  
 -	.sort
