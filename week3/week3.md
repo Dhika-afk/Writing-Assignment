@@ -11,7 +11,7 @@ Cara membuat dan memanggil Array:<br>
 ![alt text](5.png)<br>
 ![alt text](6.png)
 
-## **Array Method**
+ **Array Method**
 -	.push()
 untuk menambahkan elemen dari array<br>
 ![alt text](7.png)
