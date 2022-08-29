@@ -10,25 +10,25 @@ Hook digunakan untuk memudahkan penggunaan functional components agar bisa mengg
 ## **Props**
 Prop Types merupakan lib yang berfungsi untuk memeriksa data prop
 
-**Cara penggunaan props Type**
- ![alt text](img/1.png)<br>
+**Cara penggunaan props Type**<br>
+ ![alt text](img/1.png)
 -	Import propTypes
 -	Prop yang akan dikirim harus sesuai dengan tipe data yang dibuat
 
-**Cara penggunaan useState**
- ![alt text](img/2.png)<br>
+**Cara penggunaan useState**<br>
+ ![alt text](img/2.png)
 -	import useState from react
 -	membuat useState Hook
 -	memanggil data
 -	update state
 
-**cara penggunaan useEffect**
- ![alt text](img/3.png)<br>
+**cara penggunaan useEffect**<br>
+ ![alt text](img/3.png)
 -	import useEffect
 -	tuliskan penggunaan useEffect hook sebelum render
 
-**Perbedaan clas component danfunctional componen**
-   ![alt text](img/4.png)![alt text](img/5.png)<br>
+**Perbedaan clas component danfunctional componen**<br>
+   ![alt text](img/4.png)<br>![alt text](img/5.png)<br>
 **Class Component :**
 -	setState
 -	component didupdate
