@@ -4,8 +4,8 @@
 Hook digunakan untuk memudahkan penggunaan functional components agar bisa menggunakan state, dan lifecycle dimana pada dasarnya state dan lifecycle hanya bisa di gunakan di class component.
 
 **Penggunaak hook:**
--	Usestate
--	useeffect
+-	useState
+-	useEffect
 
 ## **Props Types**
 Prop Types merupakan lib yang berfungsi untuk memeriksa data prop
@@ -38,15 +38,15 @@ Prop Types merupakan lib yang berfungsi untuk memeriksa data prop
 -	useState
 -	useEffect
 
-## **React Router**
+## **React Router**<br>
 React router merupakan library yang digunakan untuk mengatur dan menentukan arah rute dalam aplikasi.
 
-**Ada dua jenis komponen router:**
-`<BrowserRouter>`: Ini digunakan untuk menangani URL dinamis.
-`<HashRouter>`: Ini digunakan untuk menangani permintaan statis.
+**Ada dua jenis komponen router:**<br>
+- `<BrowserRouter>`: Ini digunakan untuk menangani URL dinamis.
+- `<HashRouter>`: Ini digunakan untuk menangani permintaan statis.
 
 
-**Instalasi lib react:**
+**Instalasi lib react:**<br>
 npm install react-router-dom@6
 
 **Component React Router**
@@ -63,11 +63,11 @@ Redux merupakan state management yang digunakan untuk melakukan lintas komponen
 npm install redux react-redux
 
 **Terdapat 3 poin penting dalam redux :**
-- Action
+- Action<br>
 Action sendiri merupakan suatu event, di mana ia adalah satu-satunya cara Anda dapat mengirim data dari aplikasi Anda ke Redux Store
-- Reducer
+- Reducer<br>
 Reducer adalah fungsi murni yang mengambil status aplikasi saat ini. Reducer juga berfungsi untuk melakukan tindakan,dan mengembalikan status baru (new state)
-- Store
+- Store<br>
 Store berfungsi untuk menyimpan status aplikasi. Sangat disarankan untuk hanya menyimpan satu store di aplikasi Redux apa pun
 
 
