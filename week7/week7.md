@@ -1,4 +1,4 @@
-React JS Lanjutan
+# **React JS Lanjutan**
 
 ## **React JS Hook**
 Hook digunakan untuk memudahkan penggunaan functional components agar bisa menggunakan state, dan lifecycle dimana pada dasarnya state dan lifecycle hanya bisa di gunakan di class component.
@@ -7,7 +7,7 @@ Hook digunakan untuk memudahkan penggunaan functional components agar bisa mengg
 -	Usestate
 -	useeffect
 
-## **Props**
+## **Props Types**
 Prop Types merupakan lib yang berfungsi untuk memeriksa data prop
 
 **Cara penggunaan props Type**<br>
