@@ -2,7 +2,7 @@
 
 
 ## **Statement Management**
-State management adalah sebuah cara untuk mengatur data / state kita bekerja, bisa juga untuk memisahkan antara logic dan view, dimana logic tersebut juga bisa reusable. Terdapat 2 cara dalam melakukan state management: Redux dan UseContext
+State management dapat dikatakan sebagai library ynag digunakan untuk mengelola state pada suatu aplikasi js dengan ini kita dapat mengatur mengelola sebuah state dan dapat digunakan secara reusable.
 
 ## **Redux**
 Redux merupakan state management yang digunakan untuk mengubah state menjadi global state, sehingga state dapat di digunakan ke komponen lain.<br>
