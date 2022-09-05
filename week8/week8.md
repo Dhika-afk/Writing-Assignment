@@ -6,7 +6,7 @@ State management adalah sebuah cara untuk mengatur data / state kita bekerja, bi
 
 ## **Redux**
 Redux merupakan state management yang digunakan untuk mengubah state menjadi global state, sehingga state dapat di digunakan ke komponen lain.
- ![alt text](redux.png)
+ ![alt text](redux.png)<br>
 **Redux itu memiliki 3 poin penting, yaitu:**
 -	Action : Adalah sebuah function yang mereturn sebuah objek. Objek tersebut memiliki sebuah property wajib yaitu type. Type inilah yang menentukan bagaimana statenya akan diubah.
 -	Reducer : Adalah sebuah fungsi yang tugasnya untuk mengolah state yang ada di store. Misal menambah data, menghapus data, mengambil data, dsb. Ada 2 parameter wajib dari reducer, yaitu state dan action.
