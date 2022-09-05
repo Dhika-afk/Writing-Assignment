@@ -5,7 +5,7 @@
 State management adalah sebuah cara untuk mengatur data / state kita bekerja, bisa juga untuk memisahkan antara logic dan view, dimana logic tersebut juga bisa reusable. Terdapat 2 cara dalam melakukan state management: Redux dan UseContext
 
 ## **Redux**
-Redux merupakan state management yang digunakan untuk mengubah state menjadi global state, sehingga state dapat di digunakan ke komponen lain.
+Redux merupakan state management yang digunakan untuk mengubah state menjadi global state, sehingga state dapat di digunakan ke komponen lain.<br>
  ![alt text](redux.png)<br>
 **Redux itu memiliki 3 poin penting, yaitu:**
 -	Action : Adalah sebuah function yang mereturn sebuah objek. Objek tersebut memiliki sebuah property wajib yaitu type. Type inilah yang menentukan bagaimana statenya akan diubah.
